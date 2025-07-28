@@ -24,6 +24,6 @@ public class Person {
     }
 @Override
     public String toString() {
-        return "Person[ Name: " + name + ", Address: " + address +" ]";
+        return "Person[name= " + name + ",address=" + address +"]";
 }
 }
