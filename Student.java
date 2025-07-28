@@ -80,7 +80,7 @@ public class Student extends Person {
     /**
      * Returns a string representation of the Student object.
      *
-     * @return a string representation of the student, including name, address, program, year, and fee
+     * @return a string representation of the student as name, address, program, year, and fee
      */
     @Override
     public String toString() {
